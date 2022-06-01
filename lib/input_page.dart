@@ -31,7 +31,6 @@ class _InputPageState extends State<InputPage> {
   int maleColor= constant.inactiveColor;
   int femaleColor=constant.inactiveColor;
 
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(

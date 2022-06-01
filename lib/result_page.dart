@@ -48,6 +48,7 @@ class Resultpage extends StatelessWidget {
                     Text(advice,
                     textAlign: TextAlign.center,
                     style: constant.BodyText),
+                    Text("Thank you"),
 
                   ],
                 ),
